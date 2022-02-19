@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to this project will be documented in this file.
+All notable changes to [Peakmaster](http://peakmaster.top/)  will be documented in this file.
  
 ## [1.0.0] - 2022-02-19
  
